@@ -4,3 +4,10 @@ extra_javascript:
     - https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-AMS-MML_HTMLorMML
 markdown_extensions:
     - mdx_math
+
+pages:
+- Home: 'index.md'
+- DTAM:
+    - 概要: 'dtam/index.md'
+    - 問題設定: 'dtam/problem-setting.md'
+    - 3次元復元: 'dtam/3d-reconstruction.md'

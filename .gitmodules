@@ -1,0 +1,3 @@
+[submodule "docs/dtam"]
+	path = docs/dtam
+	url = git@github.com:slam-randd/Reading-DTAM.git
