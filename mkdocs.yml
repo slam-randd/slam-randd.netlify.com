@@ -11,3 +11,4 @@ pages:
     - 概要: 'dtam/index.md'
     - 問題設定: 'dtam/problem-setting.md'
     - 3次元復元: 'dtam/3d-reconstruction.md'
+    - 姿勢推定: 'dtam/pose-estimation.md'
